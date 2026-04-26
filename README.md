@@ -50,14 +50,20 @@ This project simulates how companies use ServiceNow to:
 
 
 ## Screenshots
-
+ 
 ### Request Form
+- Users submit requests through a structured form.
+
 ![Form](form.png)
 
 ### Workflow Automation
+- Business rules automatically generate tasks and update ticket status based on request activity.
+
 ![Workflow](workflow.png)
 
 ### Ticket List
+- Displays submitted requests and associated tasks, showing status progression and workflow execution.
+
 ![Tickets](tickets.png)
 
 
